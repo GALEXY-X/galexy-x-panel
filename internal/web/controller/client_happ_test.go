@@ -12,8 +12,8 @@ import (
 
 	"github.com/gin-gonic/gin"
 
-	"github.com/mhsanaei/3x-ui/v3/internal/web/locale"
-	"github.com/mhsanaei/3x-ui/v3/internal/web/service"
+	"github.com/GALEXY-X/galexy-x-panel/v3/internal/web/locale"
+	"github.com/GALEXY-X/galexy-x-panel/v3/internal/web/service"
 )
 
 type fakeHappLinkGenerator struct {

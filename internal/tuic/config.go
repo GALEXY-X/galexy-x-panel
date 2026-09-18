@@ -6,7 +6,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/mhsanaei/3x-ui/v3/internal/config"
+	"github.com/GALEXY-X/galexy-x-panel/v3/internal/config"
 )
 
 type ServerConfig struct {

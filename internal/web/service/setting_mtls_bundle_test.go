@@ -5,7 +5,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/mhsanaei/3x-ui/v3/internal/util/crypto"
+	"github.com/GALEXY-X/galexy-x-panel/v3/internal/util/crypto"
 )
 
 func mustNodeCAPEM(t *testing.T, name string) string {

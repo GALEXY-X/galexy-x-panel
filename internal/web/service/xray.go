@@ -11,13 +11,13 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/mhsanaei/3x-ui/v3/internal/amneziawg"
-	"github.com/mhsanaei/3x-ui/v3/internal/amneziawgnet"
-	"github.com/mhsanaei/3x-ui/v3/internal/config"
-	"github.com/mhsanaei/3x-ui/v3/internal/database/model"
-	"github.com/mhsanaei/3x-ui/v3/internal/logger"
-	"github.com/mhsanaei/3x-ui/v3/internal/util/json_util"
-	"github.com/mhsanaei/3x-ui/v3/internal/xray"
+	"github.com/GALEXY-X/galexy-x-panel/v3/internal/amneziawg"
+	"github.com/GALEXY-X/galexy-x-panel/v3/internal/amneziawgnet"
+	"github.com/GALEXY-X/galexy-x-panel/v3/internal/config"
+	"github.com/GALEXY-X/galexy-x-panel/v3/internal/database/model"
+	"github.com/GALEXY-X/galexy-x-panel/v3/internal/logger"
+	"github.com/GALEXY-X/galexy-x-panel/v3/internal/util/json_util"
+	"github.com/GALEXY-X/galexy-x-panel/v3/internal/xray"
 
 	"go.uber.org/atomic"
 )

@@ -14,12 +14,12 @@ import (
 	"strings"
 	"time"
 
-	"github.com/mhsanaei/3x-ui/v3/internal/logger"
-	"github.com/mhsanaei/3x-ui/v3/internal/util/common"
-	"github.com/mhsanaei/3x-ui/v3/internal/web/locale"
-	"github.com/mhsanaei/3x-ui/v3/internal/web/middleware"
-	"github.com/mhsanaei/3x-ui/v3/internal/web/network"
-	"github.com/mhsanaei/3x-ui/v3/internal/web/service"
+	"github.com/GALEXY-X/galexy-x-panel/v3/internal/logger"
+	"github.com/GALEXY-X/galexy-x-panel/v3/internal/util/common"
+	"github.com/GALEXY-X/galexy-x-panel/v3/internal/web/locale"
+	"github.com/GALEXY-X/galexy-x-panel/v3/internal/web/middleware"
+	"github.com/GALEXY-X/galexy-x-panel/v3/internal/web/network"
+	"github.com/GALEXY-X/galexy-x-panel/v3/internal/web/service"
 
 	"github.com/gin-gonic/gin"
 )

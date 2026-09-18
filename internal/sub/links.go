@@ -3,8 +3,8 @@ package sub
 import (
 	"strings"
 
-	"github.com/mhsanaei/3x-ui/v3/internal/database/model"
-	"github.com/mhsanaei/3x-ui/v3/internal/web/service"
+	"github.com/GALEXY-X/galexy-x-panel/v3/internal/database/model"
+	"github.com/GALEXY-X/galexy-x-panel/v3/internal/web/service"
 )
 
 type LinkProvider struct {

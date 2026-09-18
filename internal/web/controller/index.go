@@ -5,12 +5,12 @@ import (
 	"text/template"
 	"time"
 
-	"github.com/mhsanaei/3x-ui/v3/internal/logger"
-	"github.com/mhsanaei/3x-ui/v3/internal/web/middleware"
-	"github.com/mhsanaei/3x-ui/v3/internal/web/service"
-	"github.com/mhsanaei/3x-ui/v3/internal/web/service/panel"
-	"github.com/mhsanaei/3x-ui/v3/internal/web/service/tgbot"
-	"github.com/mhsanaei/3x-ui/v3/internal/web/session"
+	"github.com/GALEXY-X/galexy-x-panel/v3/internal/logger"
+	"github.com/GALEXY-X/galexy-x-panel/v3/internal/web/middleware"
+	"github.com/GALEXY-X/galexy-x-panel/v3/internal/web/service"
+	"github.com/GALEXY-X/galexy-x-panel/v3/internal/web/service/panel"
+	"github.com/GALEXY-X/galexy-x-panel/v3/internal/web/service/tgbot"
+	"github.com/GALEXY-X/galexy-x-panel/v3/internal/web/session"
 
 	"github.com/gin-gonic/gin"
 )

@@ -4,11 +4,11 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/mhsanaei/3x-ui/v3/internal/database/model"
-	"github.com/mhsanaei/3x-ui/v3/internal/web/middleware"
-	"github.com/mhsanaei/3x-ui/v3/internal/web/service/panel"
-	"github.com/mhsanaei/3x-ui/v3/internal/web/service/tgbot"
-	"github.com/mhsanaei/3x-ui/v3/internal/web/session"
+	"github.com/GALEXY-X/galexy-x-panel/v3/internal/database/model"
+	"github.com/GALEXY-X/galexy-x-panel/v3/internal/web/middleware"
+	"github.com/GALEXY-X/galexy-x-panel/v3/internal/web/service/panel"
+	"github.com/GALEXY-X/galexy-x-panel/v3/internal/web/service/tgbot"
+	"github.com/GALEXY-X/galexy-x-panel/v3/internal/web/session"
 
 	"github.com/gin-gonic/gin"
 )

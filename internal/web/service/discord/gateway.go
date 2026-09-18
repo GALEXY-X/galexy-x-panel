@@ -16,11 +16,11 @@ import (
 
 	"github.com/gorilla/websocket"
 
-	"github.com/mhsanaei/3x-ui/v3/internal/config"
-	"github.com/mhsanaei/3x-ui/v3/internal/logger"
-	"github.com/mhsanaei/3x-ui/v3/internal/util/common"
-	"github.com/mhsanaei/3x-ui/v3/internal/web/service"
-	"github.com/mhsanaei/3x-ui/v3/internal/xray"
+	"github.com/GALEXY-X/galexy-x-panel/v3/internal/config"
+	"github.com/GALEXY-X/galexy-x-panel/v3/internal/logger"
+	"github.com/GALEXY-X/galexy-x-panel/v3/internal/util/common"
+	"github.com/GALEXY-X/galexy-x-panel/v3/internal/web/service"
+	"github.com/GALEXY-X/galexy-x-panel/v3/internal/xray"
 )
 
 const (
